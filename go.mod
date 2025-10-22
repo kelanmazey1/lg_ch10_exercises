@@ -1,4 +1,4 @@
-module github.com/kelanmazey1/lg_ch10_exercises
+module github.com/kelanmazey1/lg_ch10_exercises/v2
 
 go 1.25.1
 
